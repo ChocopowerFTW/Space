@@ -36,3 +36,10 @@ alert ('capital code');
 
 
 }
+
+
+function test2(){
+  alert ('test 2');
+  
+  
+  }
